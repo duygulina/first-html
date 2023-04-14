@@ -1,5 +1,3 @@
-# ilkhtml
-Yaptığım ilk html çalışması
 <h1>Duygu Lina Yurtseven</h1>
 <h2>Hakkımda</h2>
 <p>Adım Duygu Lina. Dizi izlemeye ve kitap okumaya bayılırım. </p>
